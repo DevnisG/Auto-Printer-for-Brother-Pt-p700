@@ -1,0 +1,5 @@
+192.168.0.X
+1234
+
+::ip = '192.168.0.X'  # Dirección IP de la máquina de impresión
+::port = 1234  # Puerto para la comunicación
